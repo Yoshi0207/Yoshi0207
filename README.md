@@ -1,3 +1,6 @@
+<!--
+**Yoshi0207/Yoshi0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 ### Hi there 👋
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -7,8 +10,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yoshi0207&layout=compact" />
 </a>
 
-<!--
-**Yoshi0207/Yoshi0207** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
